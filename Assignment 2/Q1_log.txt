@@ -1,0 +1,733 @@
+how long to run? (in seconds)
+180
+simulating 4hrs (14400s) over 180 seconds
+customer: 0 queued, seconds until next customer: 52.77156495514389
+Amy is taking 394.41348196780797 seconds to process the transaction with customer: 0
+customer: 1 queued, seconds until next customer: 58.06051118672569
+customer: 2 queued, seconds until next customer: 86.96208098506236
+customer: 3 queued, seconds until next customer: 63.91211211664569
+customer: 4 queued, seconds until next customer: 98.13222845159447
+transaction with customer 0 and crewmember Amy
+
+customer: 5 queued, seconds until next customer: 98.29572457221705
+Rick is taking 313.6666001399403 seconds to process the transaction with customer: 1
+customer: 6 queued, seconds until next customer: 70.86158910194936
+customer: 7 queued, seconds until next customer: 58.795793711028374
+customer 8 is waitinig 20s to join a queue
+the queue is still full, customer 8 will come back in 600s
+transaction with customer 1 and crewmember Rick
+
+Amy is taking 413.97162020197686 seconds to process the transaction with customer: 2
+customer: 9 queued, seconds until next customer: 65.05163746317471
+customer 10 is waitinig 20s to join a queue
+the queue is still full, customer 10 will come back in 600s
+customer 11 is waitinig 20s to join a queue
+the queue is still full, customer 11 will come back in 600s
+customer 12 is waitinig 20s to join a queue
+the queue is still full, customer 12 will come back in 600s
+customer 13 is waitinig 20s to join a queue
+the queue is still full, customer 13 will come back in 600s
+transaction with customer 2 and crewmember Amy
+
+customer 14 is waitinig 20s to join a queueRick is taking 573.6643463787727 seconds to process the transaction with customer: 3
+
+the queue is still full, customer 14 will come back in 600s
+customer 15 is waitinig 20s to join a queue
+the queue is still full, customer 15 will come back in 600s
+customer 8 is waitinig 40s to join a queue
+customer 16 is waitinig 20s to join a queue
+customer 8 could not find a spot, forced to leave...
+the queue is still full, customer 16 will come back in 600s
+customer 17 is waitinig 20s to join a queue
+the queue is still full, customer 17 will come back in 600s
+customer 10 is waitinig 40s to join a queue
+customer 18 is waitinig 20s to join a queue
+customer 10 could not find a spot, forced to leave...
+the queue is still full, customer 18 will come back in 600s
+customer 19 is waitinig 20s to join a queue
+customer 11 is waitinig 40s to join a queue
+the queue is still full, customer 19 will come back in 600s
+customer 11 could not find a spot, forced to leave...
+customer 20 is waitinig 20s to join a queue
+customer 12 is waitinig 40s to join a queue
+the queue is still full, customer 20 will come back in 600s
+customer 12 could not find a spot, forced to leave...
+customer 13 is waitinig 40s to join a queue
+customer 21 is waitinig 20s to join a queue
+the queue is still full, customer 21 will come back in 600s
+customer 13 could not find a spot, forced to leave...
+transaction with customer 3 and crewmember Rick
+
+Amy is taking 593.0889332175504 seconds to process the transaction with customer: 4
+customer: 22 queued, seconds until next customer: 93.10672603993147
+customer 14 is waitinig 40s to join a queue
+customer 14 could not find a spot, forced to leave...
+customer 23 is waitinig 20s to join a queue
+customer 15 is waitinig 40s to join a queue
+the queue is still full, customer 23 will come back in 600s
+customer 15 could not find a spot, forced to leave...
+customer 24 is waitinig 20s to join a queue
+customer 16 is waitinig 40s to join a queue
+the queue is still full, customer 24 will come back in 600s
+customer 16 could not find a spot, forced to leave...
+customer 17 is waitinig 40s to join a queue
+customer 25 is waitinig 20s to join a queue
+customer 17 could not find a spot, forced to leave...
+the queue is still full, customer 25 will come back in 600s
+customer 18 is waitinig 40s to join a queue
+customer 18 could not find a spot, forced to leave...
+customer 26 is waitinig 20s to join a queue
+customer 19 is waitinig 40s to join a queuethe queue is still full, customer 26 will come back in 600s
+
+customer 19 could not find a spot, forced to leave...
+customer 27 is waitinig 20s to join a queue
+customer 20 is waitinig 40s to join a queue
+the queue is still full, customer 27 will come back in 600s
+customer 20 could not find a spot, forced to leave...
+customer 28 is waitinig 20s to join a queue
+the queue is still full, customer 28 will come back in 600s
+customer 21 is waitinig 40s to join a queue
+transaction with customer 4 and crewmember Amy
+
+Rick is taking 548.8426290924966 seconds to process the transaction with customer: 5
+customer 21 could not find a spot, forced to leave...
+customer 29 is waitinig 20s to join a queue
+the queue is still full, customer 29 will come back in 600s
+customer 30 is waitinig 20s to join a queue
+the queue is still full, customer 30 will come back in 600s
+customer 23 is waitinig 40s to join a queue
+customer 31 is waitinig 20s to join a queue
+the queue is still full, customer 31 will come back in 600s
+customer 23 could not find a spot, forced to leave...
+customer 24 is waitinig 40s to join a queue
+customer 32 is waitinig 20s to join a queue
+customer 24 could not find a spot, forced to leave...
+the queue is still full, customer 32 will come back in 600s
+customer 25 is waitinig 40s to join a queue
+customer 33 is waitinig 20s to join a queue
+customer 25 could not find a spot, forced to leave...
+the queue is still full, customer 33 will come back in 600s
+customer 34 is waitinig 20s to join a queue
+customer 26 is waitinig 40s to join a queue
+the queue is still full, customer 34 will come back in 600s
+customer 26 could not find a spot, forced to leave...
+customer 35 is waitinig 20s to join a queue
+customer 27 is waitinig 40s to join a queue
+the queue is still full, customer 35 will come back in 600s
+customer 27 could not find a spot, forced to leave...
+customer 36 is waitinig 20s to join a queue
+transaction with customer 5 and crewmember Rick
+
+Amy is taking 339.0443762484769 seconds to process the transaction with customer: 6
+the queue is still full, customer 36 will come back in 600s
+customer 28 is waitinig 40s to join a queue
+customer 37 is waitinig 20s to join a queue
+customer 28 could not find a spot, forced to leave...
+the queue is still full, customer 37 will come back in 600s
+customer 29 is waitinig 40s to join a queue
+customer 38 is waitinig 20s to join a queue
+customer 29 could not find a spot, forced to leave...
+the queue is still full, customer 38 will come back in 600s
+customer 30 is waitinig 40s to join a queue
+customer 30 could not find a spot, forced to leave...
+customer 39 is waitinig 20s to join a queue
+customer 31 is waitinig 40s to join a queue
+the queue is still full, customer 39 will come back in 600s
+customer 31 could not find a spot, forced to leave...
+customer 32 is waitinig 40s to join a queue
+customer 40 is waitinig 20s to join a queue
+transaction with customer 6 and crewmember Amy
+
+the queue is still full, customer 40 will come back in 600s
+Rick is taking 514.4250476564321 seconds to process the transaction with customer: 7
+customer 32 could not find a spot, forced to leave...
+customer 41 is waitinig 20s to join a queue
+customer 33 is waitinig 40s to join a queue
+the queue is still full, customer 41 will come back in 600s
+customer 33 could not find a spot, forced to leave...
+customer 34 is waitinig 40s to join a queue
+customer 42 is waitinig 20s to join a queue
+the queue is still full, customer 42 will come back in 600s
+customer 34 could not find a spot, forced to leave...
+customer 35 is waitinig 40s to join a queue
+customer 43 is waitinig 20s to join a queue
+customer 35 could not find a spot, forced to leave...
+customer 36 is waitinig 40s to join a queue
+the queue is still full, customer 43 will come back in 600s
+customer 36 could not find a spot, forced to leave...
+customer 37 is waitinig 40s to join a queue
+customer 44 is waitinig 20s to join a queue
+customer 37 could not find a spot, forced to leave...
+the queue is still full, customer 44 will come back in 600s
+customer 38 is waitinig 40s to join a queue
+customer 45 is waitinig 20s to join a queue
+customer 38 could not find a spot, forced to leave...
+the queue is still full, customer 45 will come back in 600s
+customer 39 is waitinig 40s to join a queue
+transaction with customer 7 and crewmember Rick
+
+Amy is taking 522.4508567339362 seconds to process the transaction with customer: 9
+customer: 46 queued, seconds until next customer: 82.30293649813284
+customer 39 could not find a spot, forced to leave...
+customer 40 is waitinig 40s to join a queue
+customer 47 is waitinig 20s to join a queue
+customer 40 could not find a spot, forced to leave...
+the queue is still full, customer 47 will come back in 600s
+customer 41 is waitinig 40s to join a queue
+customer 48 is waitinig 20s to join a queue
+customer 41 could not find a spot, forced to leave...
+the queue is still full, customer 48 will come back in 600s
+customer 42 is waitinig 40s to join a queue
+customer 49 is waitinig 20s to join a queue
+customer 42 could not find a spot, forced to leave...
+the queue is still full, customer 49 will come back in 600s
+customer 43 is waitinig 40s to join a queue
+customer 50 is waitinig 20s to join a queue
+the queue is still full, customer 50 will come back in 600s
+customer 43 could not find a spot, forced to leave...
+customer 44 is waitinig 40s to join a queue
+customer 51 is waitinig 20s to join a queue
+customer 44 could not find a spot, forced to leave...
+transaction with customer 9 and crewmember Amy
+the queue is still full, customer 51 will come back in 600s
+
+Rick is taking 387.6862568426018 seconds to process the transaction with customer: 14
+customer 45 is waitinig 40s to join a queue
+customer 52 is waitinig 20s to join a queue
+the queue is still full, customer 52 will come back in 600scustomer 45 could not find a spot, forced to leave...
+
+customer 53 is waitinig 20s to join a queue
+the queue is still full, customer 53 will come back in 600s
+customer 54 is waitinig 20s to join a queue
+customer 47 is waitinig 40s to join a queue
+the queue is still full, customer 54 will come back in 600s
+customer 47 could not find a spot, forced to leave...
+customer 55 is waitinig 20s to join a queue
+customer 48 is waitinig 40s to join a queue
+the queue is still full, customer 55 will come back in 600s
+customer 48 could not find a spot, forced to leave...
+customer 56 is waitinig 20s to join a queue
+the queue is still full, customer 56 will come back in 600s
+customer 49 is waitinig 40s to join a queue
+transaction with customer 14 and crewmember Rick
+
+Amy is taking 583.9080689383487 seconds to process the transaction with customer: 21
+customer: 57 queued, seconds until next customer: 75.42124964783406
+customer 49 could not find a spot, forced to leave...
+customer 50 is waitinig 40s to join a queue
+customer 58 is waitinig 20s to join a queue
+customer 50 could not find a spot, forced to leave...
+the queue is still full, customer 58 will come back in 600s
+customer 59 is waitinig 20s to join a queue
+customer 51 is waitinig 40s to join a queue
+the queue is still full, customer 59 will come back in 600s
+customer 60 is waitinig 20s to join a queue
+customer 51 could not find a spot, forced to leave...
+the queue is still full, customer 60 will come back in 600s
+customer 52 is waitinig 40s to join a queue
+customer 52 could not find a spot, forced to leave...
+customer 61 is waitinig 20s to join a queue
+the queue is still full, customer 61 will come back in 600scustomer 53 is waitinig 40s to join a queue
+
+customer 62 is waitinig 20s to join a queue
+customer 53 could not find a spot, forced to leave...
+customer 54 is waitinig 40s to join a queue
+the queue is still full, customer 62 will come back in 600s
+customer 54 could not find a spot, forced to leave...
+customer 63 is waitinig 20s to join a queue
+customer 55 is waitinig 40s to join a queue
+the queue is still full, customer 63 will come back in 600s
+customer 55 could not find a spot, forced to leave...
+customer 56 is waitinig 40s to join a queue
+customer 64 is waitinig 20s to join a queue
+transaction with customer 21 and crewmember Amy
+
+Rick is taking 423.5414259254077 seconds to process the transaction with customer: 22
+the queue is still full, customer 64 will come back in 600s
+customer 56 could not find a spot, forced to leave...
+customer 65 is waitinig 20s to join a queue
+the queue is still full, customer 65 will come back in 600s
+customer 66 is waitinig 20s to join a queue
+customer 58 is waitinig 40s to join a queue
+the queue is still full, customer 66 will come back in 600s
+customer 58 could not find a spot, forced to leave...customer 67 is waitinig 20s to join a queue
+
+the queue is still full, customer 67 will come back in 600s
+customer 59 is waitinig 40s to join a queue
+customer 68 is waitinig 20s to join a queue
+customer 59 could not find a spot, forced to leave...
+the queue is still full, customer 68 will come back in 600s
+customer 60 is waitinig 40s to join a queue
+customer 69 is waitinig 20s to join a queue
+customer 60 could not find a spot, forced to leave...
+the queue is still full, customer 69 will come back in 600s
+customer 61 is waitinig 40s to join a queuecustomer 70 is waitinig 20s to join a queue
+
+the queue is still full, customer 70 will come back in 600s
+transaction with customer 22 and crewmember Rick
+
+customer 61 could not find a spot, forced to leave...
+Amy is taking 444.30077651716533 seconds to process the transaction with customer: 32
+customer 62 is waitinig 40s to join a queue
+customer 71 is waitinig 20s to join a queue
+customer 62 could not find a spot, forced to leave...
+the queue is still full, customer 71 will come back in 600s
+customer 72 is waitinig 20s to join a queue
+customer 63 is waitinig 40s to join a queue
+the queue is still full, customer 72 will come back in 600s
+customer 63 could not find a spot, forced to leave...
+customer 64 is waitinig 40s to join a queue
+customer 73 is waitinig 20s to join a queue
+the queue is still full, customer 73 will come back in 600s
+customer 64 could not find a spot, forced to leave...
+customer 65 is waitinig 40s to join a queue
+customer 74 is waitinig 20s to join a queue
+customer 65 could not find a spot, forced to leave...
+the queue is still full, customer 74 will come back in 600s
+customer 66 is waitinig 40s to join a queue
+customer 75 is waitinig 20s to join a queue
+the queue is still full, customer 75 will come back in 600s
+customer 66 could not find a spot, forced to leave...
+customer 67 is waitinig 40s to join a queue
+customer 76 is waitinig 20s to join a queue
+the queue is still full, customer 76 will come back in 600s
+customer 67 could not find a spot, forced to leave...
+customer 68 is waitinig 40s to join a queue
+transaction with customer 32 and crewmember Amy
+
+Rick is taking 530.3521572699265 seconds to process the transaction with customer: 36
+customer: 77 queued, seconds until next customer: 96.88141913186126
+customer 68 could not find a spot, forced to leave...
+customer 69 is waitinig 40s to join a queue
+customer 69 could not find a spot, forced to leave...
+customer 78 is waitinig 20s to join a queue
+customer 70 is waitinig 40s to join a queue
+the queue is still full, customer 78 will come back in 600s
+customer 70 could not find a spot, forced to leave...
+customer 79 is waitinig 20s to join a queue
+customer 71 is waitinig 40s to join a queue
+the queue is still full, customer 79 will come back in 600s
+customer 71 could not find a spot, forced to leave...
+customer 72 is waitinig 40s to join a queue
+customer 80 is waitinig 20s to join a queue
+the queue is still full, customer 80 will come back in 600s
+customer 72 could not find a spot, forced to leave...
+customer 81 is waitinig 20s to join a queue
+customer 73 is waitinig 40s to join a queue
+the queue is still full, customer 81 will come back in 600s
+customer 73 could not find a spot, forced to leave...
+customer 74 is waitinig 40s to join a queue
+customer 82 is waitinig 20s to join a queue
+the queue is still full, customer 82 will come back in 600s
+customer 74 could not find a spot, forced to leave...
+customer 75 is waitinig 40s to join a queue
+transaction with customer 36 and crewmember Rick
+
+customer 75 could not find a spot, forced to leave...customer 83 is waitinig 20s to join a queueAmy is taking 418.59610819455156 seconds to process the transaction with customer: 45
+
+
+customer 76 is waitinig 40s to join a queue
+the queue is still full, customer 83 will come back in 600s
+customer 76 could not find a spot, forced to leave...
+customer 84 is waitinig 20s to join a queue
+the queue is still full, customer 84 will come back in 600s
+customer 85 is waitinig 20s to join a queue
+customer 78 is waitinig 40s to join a queue
+the queue is still full, customer 85 will come back in 600s
+customer 78 could not find a spot, forced to leave...
+customer 86 is waitinig 20s to join a queue
+customer 79 is waitinig 40s to join a queue
+the queue is still full, customer 86 will come back in 600s
+customer 79 could not find a spot, forced to leave...
+customer 87 is waitinig 20s to join a queue
+customer 80 is waitinig 40s to join a queue
+the queue is still full, customer 87 will come back in 600s
+customer 80 could not find a spot, forced to leave...
+customer 88 is waitinig 20s to join a queue
+customer 81 is waitinig 40s to join a queue
+transaction with customer 45 and crewmember Amy
+
+the queue is still full, customer 88 will come back in 600s
+Rick is taking 576.7451084472956 seconds to process the transaction with customer: 46
+customer: 89 queued, seconds until next customer: 79.44985797784562
+customer 81 could not find a spot, forced to leave...
+customer 82 is waitinig 40s to join a queue
+customer 90 is waitinig 20s to join a queue
+customer 82 could not find a spot, forced to leave...
+the queue is still full, customer 90 will come back in 600s
+customer 83 is waitinig 40s to join a queue
+customer 91 is waitinig 20s to join a queue
+the queue is still full, customer 91 will come back in 600s
+customer 83 could not find a spot, forced to leave...
+customer 84 is waitinig 40s to join a queue
+customer 92 is waitinig 20s to join a queue
+the queue is still full, customer 92 will come back in 600s
+customer 84 could not find a spot, forced to leave...
+customer 85 is waitinig 40s to join a queuecustomer 93 is waitinig 20s to join a queue
+
+the queue is still full, customer 93 will come back in 600s
+customer 85 could not find a spot, forced to leave...
+customer 86 is waitinig 40s to join a queue
+customer 94 is waitinig 20s to join a queue
+the queue is still full, customer 94 will come back in 600s
+customer 86 could not find a spot, forced to leave...
+customer 95 is waitinig 20s to join a queue
+customer 87 is waitinig 40s to join a queue
+the queue is still full, customer 95 will come back in 600s
+customer 87 could not find a spot, forced to leave...
+transaction with customer 46 and crewmember Rick
+
+Amy is taking 405.55413400151946 seconds to process the transaction with customer: 57
+customer: 96 queued, seconds until next customer: 80.01035512192134
+customer 88 is waitinig 40s to join a queue
+customer 88 could not find a spot, forced to leave...
+customer 97 is waitinig 20s to join a queue
+the queue is still full, customer 97 will come back in 600s
+customer 90 is waitinig 40s to join a queue
+customer 98 is waitinig 20s to join a queue
+the queue is still full, customer 98 will come back in 600s
+customer 90 could not find a spot, forced to leave...
+customer 91 is waitinig 40s to join a queue
+customer 99 is waitinig 20s to join a queue
+the queue is still full, customer 99 will come back in 600s
+customer 91 could not find a spot, forced to leave...
+customer 100 is waitinig 20s to join a queue
+customer 92 is waitinig 40s to join a queue
+the queue is still full, customer 100 will come back in 600s
+customer 92 could not find a spot, forced to leave...
+customer 101 is waitinig 20s to join a queue
+customer 93 is waitinig 40s to join a queue
+transaction with customer 57 and crewmember Amy
+
+Rick is taking 463.9469794335017 seconds to process the transaction with customer: 64
+the queue is still full, customer 101 will come back in 600s
+customer 102 is waitinig 20s to join a queue
+customer 93 could not find a spot, forced to leave...
+the queue is still full, customer 102 will come back in 600s
+customer 94 is waitinig 40s to join a queue
+customer 103 is waitinig 20s to join a queue
+customer 94 could not find a spot, forced to leave...
+customer 95 is waitinig 40s to join a queue
+the queue is still full, customer 103 will come back in 600s
+customer 104 is waitinig 20s to join a queue
+customer 95 could not find a spot, forced to leave...
+the queue is still full, customer 104 will come back in 600s
+customer 105 is waitinig 20s to join a queue
+the queue is still full, customer 105 will come back in 600s
+customer 97 is waitinig 40s to join a queue
+customer 97 could not find a spot, forced to leave...
+customer 106 is waitinig 20s to join a queue
+customer 98 is waitinig 40s to join a queue
+the queue is still full, customer 106 will come back in 600s
+customer 98 could not find a spot, forced to leave...
+transaction with customer 64 and crewmember Rick
+
+customer 99 is waitinig 40s to join a queueAmy is taking 560.9043147216921 seconds to process the transaction with customer: 61
+
+customer 107 is waitinig 20s to join a queue
+the queue is still full, customer 107 will come back in 600s
+customer 99 could not find a spot, forced to leave...
+customer 100 is waitinig 40s to join a queue
+customer 108 is waitinig 20s to join a queue
+the queue is still full, customer 108 will come back in 600s
+customer 100 could not find a spot, forced to leave...
+customer 101 is waitinig 40s to join a queue
+customer 109 is waitinig 20s to join a queue
+customer 101 could not find a spot, forced to leave...
+customer 102 is waitinig 40s to join a queue
+the queue is still full, customer 109 will come back in 600s
+customer 102 could not find a spot, forced to leave...
+customer 110 is waitinig 20s to join a queue
+the queue is still full, customer 110 will come back in 600s
+customer 103 is waitinig 40s to join a queue
+customer 103 could not find a spot, forced to leave...
+customer 104 is waitinig 40s to join a queue
+customer 111 is waitinig 20s to join a queue
+the queue is still full, customer 111 will come back in 600s
+customer 104 could not find a spot, forced to leave...
+customer 112 is waitinig 20s to join a queue
+customer 105 is waitinig 40s to join a queue
+the queue is still full, customer 112 will come back in 600s
+customer 105 could not find a spot, forced to leave...
+customer 106 is waitinig 40s to join a queuecustomer 113 is waitinig 20s to join a queue
+
+the queue is still full, customer 113 will come back in 600s
+customer 106 could not find a spot, forced to leave...
+transaction with customer 61 and crewmember Amy
+
+Rick is taking 441.3489995011659 seconds to process the transaction with customer: 77
+customer: 114 queued, seconds until next customer: 60.06857138548317
+customer 107 is waitinig 40s to join a queue
+customer 115 is waitinig 20s to join a queue
+the queue is still full, customer 115 will come back in 600s
+customer 107 could not find a spot, forced to leave...
+customer 108 is waitinig 40s to join a queuecustomer 116 is waitinig 20s to join a queue
+
+the queue is still full, customer 116 will come back in 600s
+customer 108 could not find a spot, forced to leave...
+customer 117 is waitinig 20s to join a queue
+customer 109 is waitinig 40s to join a queue
+the queue is still full, customer 117 will come back in 600s
+customer 109 could not find a spot, forced to leave...
+customer 110 is waitinig 40s to join a queue
+customer 118 is waitinig 20s to join a queue
+the queue is still full, customer 118 will come back in 600s
+customer 110 could not find a spot, forced to leave...
+customer 119 is waitinig 20s to join a queue
+customer 111 is waitinig 40s to join a queuethe queue is still full, customer 119 will come back in 600s
+
+transaction with customer 77 and crewmember Rick
+
+Amy is taking 518.5972980327671 seconds to process the transaction with customer: 76
+customer 111 could not find a spot, forced to leave...
+customer 112 is waitinig 40s to join a queue
+customer 120 is waitinig 20s to join a queue
+customer 112 could not find a spot, forced to leave...
+the queue is still full, customer 120 will come back in 600s
+customer 113 is waitinig 40s to join a queue
+customer 121 is waitinig 20s to join a queue
+customer 113 could not find a spot, forced to leave...
+the queue is still full, customer 121 will come back in 600s
+customer 115 is waitinig 40s to join a queue
+customer 122 is waitinig 20s to join a queue
+the queue is still full, customer 122 will come back in 600s
+customer 115 could not find a spot, forced to leave...
+customer 116 is waitinig 40s to join a queue
+customer 123 is waitinig 20s to join a queue
+the queue is still full, customer 123 will come back in 600s
+customer 116 could not find a spot, forced to leave...
+customer 117 is waitinig 40s to join a queue
+customer 124 is waitinig 20s to join a queue
+customer 117 could not find a spot, forced to leave...
+the queue is still full, customer 124 will come back in 600s
+customer 118 is waitinig 40s to join a queue
+transaction with customer 76 and crewmember Amy
+
+customer 125 is waitinig 20s to join a queueRick is taking 530.9832682579938 seconds to process the transaction with customer: 89
+
+customer 118 could not find a spot, forced to leave...
+the queue is still full, customer 125 will come back in 600s
+customer 119 is waitinig 40s to join a queue
+customer 119 could not find a spot, forced to leave...
+customer 126 is waitinig 20s to join a queue
+the queue is still full, customer 126 will come back in 600s
+customer 120 is waitinig 40s to join a queue
+customer 127 is waitinig 20s to join a queue
+the queue is still full, customer 127 will come back in 600s
+customer 120 could not find a spot, forced to leave...
+customer 128 is waitinig 20s to join a queue
+the queue is still full, customer 128 will come back in 600s
+customer 121 is waitinig 40s to join a queue
+customer 129 is waitinig 20s to join a queue
+the queue is still full, customer 129 will come back in 600s
+customer 121 could not find a spot, forced to leave...
+customer 130 is waitinig 20s to join a queue
+customer 122 is waitinig 40s to join a queue
+the queue is still full, customer 130 will come back in 600s
+customer 122 could not find a spot, forced to leave...
+customer 123 is waitinig 40s to join a queue
+customer 131 is waitinig 20s to join a queue
+the queue is still full, customer 131 will come back in 600s
+customer 123 could not find a spot, forced to leave...
+transaction with customer 89 and crewmember Rick
+customer 124 is waitinig 40s to join a queue
+
+Amy is taking 428.3926948997213 seconds to process the transaction with customer: 96
+customer: 132 queued, seconds until next customer: 72.00649595953664
+customer 124 could not find a spot, forced to leave...
+customer 125 is waitinig 40s to join a queue
+customer 133 is waitinig 20s to join a queue
+the queue is still full, customer 133 will come back in 600s
+customer 125 could not find a spot, forced to leave...
+customer 134 is waitinig 20s to join a queue
+customer 126 is waitinig 40s to join a queue
+the queue is still full, customer 134 will come back in 600s
+customer 126 could not find a spot, forced to leave...
+customer 127 is waitinig 40s to join a queue
+customer 135 is waitinig 20s to join a queue
+the queue is still full, customer 135 will come back in 600s
+customer 127 could not find a spot, forced to leave...
+customer 128 is waitinig 40s to join a queue
+customer 136 is waitinig 20s to join a queue
+customer 128 could not find a spot, forced to leave...
+customer 129 is waitinig 40s to join a queue
+the queue is still full, customer 136 will come back in 600s
+customer 129 could not find a spot, forced to leave...
+customer 130 is waitinig 40s to join a queuetransaction with customer 96 and crewmember Amy
+
+
+Rick is taking 303.72565815090525 seconds to process the transaction with customer: 101
+customer: 137 queued, seconds until next customer: 85.47324226200473
+customer 130 could not find a spot, forced to leave...
+customer 138 is waitinig 20s to join a queuecustomer 131 is waitinig 40s to join a queue
+
+the queue is still full, customer 138 will come back in 600s
+customer 131 could not find a spot, forced to leave...
+customer 139 is waitinig 20s to join a queue
+the queue is still full, customer 139 will come back in 600s
+customer 133 is waitinig 40s to join a queue
+transaction with customer 101 and crewmember Rick
+
+customer 140 is waitinig 20s to join a queueAmy is taking 472.9506863147992 seconds to process the transaction with customer: 107
+
+customer 133 could not find a spot, forced to leave...
+the queue is still full, customer 140 will come back in 600s
+customer 134 is waitinig 40s to join a queue
+customer 141 is waitinig 20s to join a queue
+customer 134 could not find a spot, forced to leave...
+the queue is still full, customer 141 will come back in 600s
+customer 142 is waitinig 20s to join a queue
+customer 135 is waitinig 40s to join a queue
+the queue is still full, customer 142 will come back in 600s
+customer 135 could not find a spot, forced to leave...
+customer 136 is waitinig 40s to join a queue
+customer 143 is waitinig 20s to join a queue
+the queue is still full, customer 143 will come back in 600s
+customer 136 could not find a spot, forced to leave...
+customer 144 is waitinig 20s to join a queue
+the queue is still full, customer 144 will come back in 600s
+customer 145 is waitinig 20s to join a queue
+the queue is still full, customer 145 will come back in 600s
+customer 138 is waitinig 40s to join a queue
+customer 146 is waitinig 20s to join a queue
+the queue is still full, customer 146 will come back in 600s
+customer 138 could not find a spot, forced to leave...
+transaction with customer 107 and crewmember Amy
+
+Rick is taking 437.8929193124425 seconds to process the transaction with customer: 114
+customer: 147 queued, seconds until next customer: 93.40206320686337
+customer 139 is waitinig 40s to join a queue
+customer 139 could not find a spot, forced to leave...
+customer 140 is waitinig 40s to join a queue
+customer 148 is waitinig 20s to join a queue
+the queue is still full, customer 148 will come back in 600s
+customer 140 could not find a spot, forced to leave...
+customer 141 is waitinig 40s to join a queue
+customer 149 is waitinig 20s to join a queue
+customer 141 could not find a spot, forced to leave...
+the queue is still full, customer 149 will come back in 600s
+customer 142 is waitinig 40s to join a queue
+customer 142 could not find a spot, forced to leave...
+customer 150 is waitinig 20s to join a queue
+customer 143 is waitinig 40s to join a queue
+the queue is still full, customer 150 will come back in 600s
+customer 143 could not find a spot, forced to leave...
+customer 151 is waitinig 20s to join a queue
+transaction with customer 114 and crewmember Rick
+
+Amy is taking 355.8879801169462 seconds to process the transaction with customer: 111
+the queue is still full, customer 151 will come back in 600s
+customer 144 is waitinig 40s to join a queue
+customer 152 is waitinig 20s to join a queue
+customer 144 could not find a spot, forced to leave...
+the queue is still full, customer 152 will come back in 600scustomer 145 is waitinig 40s to join a queue
+
+customer 145 could not find a spot, forced to leave...
+customer 146 is waitinig 40s to join a queuecustomer 153 is waitinig 20s to join a queue
+
+the queue is still full, customer 153 will come back in 600s
+customer 146 could not find a spot, forced to leave...
+customer 154 is waitinig 20s to join a queue
+the queue is still full, customer 154 will come back in 600s
+customer 155 is waitinig 20s to join a queue
+customer 148 is waitinig 40s to join a queue
+the queue is still full, customer 155 will come back in 600s
+transaction with customer 111 and crewmember Amy
+customer 156 is waitinig 20s to join a queue
+
+Rick is taking 300.16941158183363 seconds to process the transaction with customer: 118
+customer 148 could not find a spot, forced to leave...
+the queue is still full, customer 156 will come back in 600s
+customer 149 is waitinig 40s to join a queuecustomer 157 is waitinig 20s to join a queue
+
+the queue is still full, customer 157 will come back in 600s
+customer 149 could not find a spot, forced to leave...
+customer 158 is waitinig 20s to join a queue
+the queue is still full, customer 158 will come back in 600s
+customer 150 is waitinig 40s to join a queue
+customer 159 is waitinig 20s to join a queue
+customer 150 could not find a spot, forced to leave...
+the queue is still full, customer 159 will come back in 600s
+customer 151 is waitinig 40s to join a queue
+customer 160 is waitinig 20s to join a queue
+customer 151 could not find a spot, forced to leave...
+the queue is still full, customer 160 will come back in 600s
+transaction with customer 118 and crewmember Rick
+
+Amy is taking 434.2659410036852 seconds to process the transaction with customer: 132customer 152 is waitinig 40s to join a queue
+
+customer 161 is waitinig 20s to join a queue
+customer 152 could not find a spot, forced to leave...
+the queue is still full, customer 161 will come back in 600s
+customer 153 is waitinig 40s to join a queue
+customer 162 is waitinig 20s to join a queue
+customer 153 could not find a spot, forced to leave...
+the queue is still full, customer 162 will come back in 600scustomer 154 is waitinig 40s to join a queue
+
+customer 154 could not find a spot, forced to leave...
+customer 163 is waitinig 20s to join a queue
+the queue is still full, customer 163 will come back in 600s
+customer 155 is waitinig 40s to join a queue
+customer 155 could not find a spot, forced to leave...
+customer 156 is waitinig 40s to join a queue
+customer 164 is waitinig 20s to join a queue
+the queue is still full, customer 164 will come back in 600s
+customer 156 could not find a spot, forced to leave...
+customer 157 is waitinig 40s to join a queue
+customer 165 is waitinig 20s to join a queue
+the queue is still full, customer 165 will come back in 600s
+transaction with customer 132 and crewmember Amy
+
+Rick is taking 553.484422646935 seconds to process the transaction with customer: 137
+customer 157 could not find a spot, forced to leave...
+customer 158 is waitinig 40s to join a queue
+customer 166 is waitinig 20s to join a queue
+customer 158 could not find a spot, forced to leave...
+the queue is still full, customer 166 will come back in 600s
+customer 159 is waitinig 40s to join a queue
+customer 167 is waitinig 20s to join a queue
+customer 159 could not find a spot, forced to leave...
+the queue is still full, customer 167 will come back in 600s
+customer 160 is waitinig 40s to join a queue
+customer 168 is waitinig 20s to join a queue
+the queue is still full, customer 168 will come back in 600s
+customer 160 could not find a spot, forced to leave...
+customer 161 is waitinig 40s to join a queue
+customer 169 is waitinig 20s to join a queue
+the queue is still full, customer 169 will come back in 600s
+customer 161 could not find a spot, forced to leave...
+customer 170 is waitinig 20s to join a queue
+the queue is still full, customer 170 will come back in 600s
+customer 162 is waitinig 40s to join a queue
+customer 171 is waitinig 20s to join a queue
+customer 162 could not find a spot, forced to leave...
+the queue is still full, customer 171 will come back in 600s
+customer 163 is waitinig 40s to join a queue
+customer 172 is waitinig 20s to join a queue
+the queue is still full, customer 172 will come back in 600s
+customer 163 could not find a spot, forced to leave...
+customer 173 is waitinig 20s to join a queue
+customer 164 is waitinig 40s to join a queue
+the queue is still full, customer 173 will come back in 600s
+transaction with customer 137 and crewmember Rick
+customer 164 could not find a spot, forced to leave...
+customer 174 is waitinig 20s to join a queue
+
+Amy is taking 310.7461440094434 seconds to process the transaction with customer: 133
+customer 165 is waitinig 40s to join a queue
+the queue is still full, customer 174 will come back in 600s
+customer 165 could not find a spot, forced to leave...
+customer 166 is waitinig 40s to join a queue
+customer 175 is waitinig 20s to join a queue
+the queue is still full, customer 175 will come back in 600s
+customer 166 could not find a spot, forced to leave...
+customer 176 is waitinig 20s to join a queue
+customer 167 is waitinig 40s to join a queue
+the queue is still full, customer 176 will come back in 600s
+customer 167 could not find a spot, forced to leave...
+customer 168 is waitinig 40s to join a queue
+Total number of customers that arrived: 179
+Total number of customers forced to leave: 149
+Total number of customers that were served: 30
+
+Average time taken to serve each customer: 459.56008339161986

@@ -1,0 +1,950 @@
+how long to run? (in seconds)
+180
+simulating 4hrs (14400s) over 180 seconds
+customer 0 was queued, time until next customer: 64.40899390523491
+
+Timmy is now taking 332.29409688842264 seconds to serve customer 0
+
+customer 1 was queued, time until next customer: 69.09532585753206
+
+customer 2 was queued, time until next customer: 83.34772588812608
+Mabel is now taking 392.2345379555939 seconds to serve customer 2
+
+
+customer 3 was queued, time until next customer: 71.35688125163891
+
+customer 4 was queued, time until next customer: 55.4403472859608
+John is now taking 366.5507297878646 seconds to serve customer 4
+
+
+Customer 0 was served by Timmy
+Timmy is now taking 305.33889991775396 seconds to serve customer 1
+
+customer 5 was queued, time until next customer: 77.29874194840394
+
+customer 6 was queued, time until next customer: 83.76145219800875
+
+customer 7 is waitinig 20s to join a queue
+Customer 2 was served by Mabel
+Mabel is now taking 581.4144515349653 seconds to serve customer 3
+
+the queue is still full, customer 7 will come back in 600s
+customer 8 is waitinig 20s to join a queue
+the queue is still full, customer 8 will come back in 600s
+Customer 1 was served by Timmy
+Timmy is now taking 342.78145575118145 seconds to serve customer 5
+
+Customer 4 was served by John
+John is now taking 525.4344451003105 seconds to serve customer 6
+
+customer 9 was queued, time until next customer: 70.82638702222745
+
+customer 10 was queued, time until next customer: 89.23636099651794
+
+customer 11 is waitinig 20s to join a queue
+the queue is still full, customer 11 will come back in 600s
+customer 12 is waitinig 20s to join a queue
+the queue is still full, customer 12 will come back in 600s
+Customer 5 was served by Timmy
+Timmy is now taking 354.5904697816546 seconds to serve customer 9
+
+customer 13 was queued, time until next customer: 83.62455383371015
+
+customer 14 is waitinig 20s to join a queue
+Customer 3 was served by Mabel
+Mabel is now taking 529.471251196266 seconds to serve customer 8
+
+the queue is still full, customer 14 will come back in 600s
+customer 7 is waitinig 40s to join a queue
+customer 15 is waitinig 20s to join a queue
+customer 7 could not find a spot, forced to leave...
+the queue is still full, customer 15 will come back in 600s
+Customer 6 was served by John
+John is now taking 464.54740123665215 seconds to serve customer 10
+
+customer 8 is waitinig 40s to join a queue
+customer 16 is waitinig 20s to join a queue
+customer 8 could not find a spot, forced to leave...
+the queue is still full, customer 16 will come back in 600s
+customer 17 is waitinig 20s to join a queue
+Customer 9 was served by Timmy
+Timmy is now taking 549.4662138917421 seconds to serve customer 13
+
+the queue is still full, customer 17 will come back in 600s
+customer 18 is waitinig 20s to join a queue
+the queue is still full, customer 18 will come back in 600s
+customer 11 is waitinig 40s to join a queue
+customer 19 is waitinig 20s to join a queue
+the queue is still full, customer 19 will come back in 600s
+customer 11 could not find a spot, forced to leave...
+customer 20 is waitinig 20s to join a queue
+customer 12 is waitinig 40s to join a queue
+the queue is still full, customer 20 will come back in 600s
+customer 12 could not find a spot, forced to leave...
+customer 21 is waitinig 20s to join a queue
+Customer 8 was served by Mabel
+Mabel is now taking 313.31349564541586 seconds to serve customer 15
+
+the queue is still full, customer 21 will come back in 600s
+Customer 10 was served by John
+John is now taking 337.9795738856798 seconds to serve customer 16
+
+customer 22 was queued, time until next customer: 95.15038854651003
+
+customer 14 is waitinig 40s to join a queue
+customer 14 could not find a spot, forced to leave...
+customer 15 is waitinig 40s to join a queue
+customer 23 is waitinig 20s to join a queue
+customer 15 could not find a spot, forced to leave...
+the queue is still full, customer 23 will come back in 600s
+customer 16 is waitinig 40s to join a queue
+customer 24 is waitinig 20s to join a queue
+Customer 13 was served by Timmy
+Timmy is now taking 507.16983613622375 seconds to serve customer 18
+
+the queue is still full, customer 24 will come back in 600s
+customer 16 could not find a spot, forced to leave...
+customer 17 is waitinig 40s to join a queue
+customer 25 is waitinig 20s to join a queue
+Customer 15 was served by Mabel
+Mabel is now taking 487.37572449192197 seconds to serve customer 22
+
+the queue is still full, customer 25 will come back in 600s
+customer 17 could not find a spot, forced to leave...
+Customer 16 was served by John
+John is now taking 313.7604866681629 seconds to serve customer 22
+
+customer 18 is waitinig 40s to join a queue
+customer 26 is waitinig 20s to join a queue
+the queue is still full, customer 26 will come back in 600s
+customer 18 could not find a spot, forced to leave...
+customer 19 is waitinig 40s to join a queue
+customer 27 is waitinig 20s to join a queue
+the queue is still full, customer 27 will come back in 600s
+customer 19 could not find a spot, forced to leave...
+customer 20 is waitinig 40s to join a queue
+customer 20 could not find a spot, forced to leave...
+customer 28 is waitinig 20s to join a queue
+the queue is still full, customer 28 will come back in 600s
+customer 21 is waitinig 40s to join a queue
+customer 29 is waitinig 20s to join a queue
+the queue is still full, customer 29 will come back in 600s
+customer 21 could not find a spot, forced to leave...
+Customer 22 was served by John
+John is now taking 432.15673646739344 seconds to serve customer 26
+
+customer 30 was queued, time until next customer: 92.60468742982421
+
+Customer 18 was served by Timmy
+Timmy is now taking 314.34502971092974 seconds to serve customer 25
+
+customer 31 was queued, time until next customer: 98.24916122955538
+
+customer 23 is waitinig 40s to join a queue
+Customer 22 was served by Mabel
+Mabel is now taking 376.0508793102477 seconds to serve customer 26
+
+customer 23 could not find a spot, forced to leave...
+customer 24 is waitinig 40s to join a queue
+customer 32 is waitinig 20s to join a queue
+the queue is still full, customer 32 will come back in 600s
+customer 24 could not find a spot, forced to leave...
+customer 25 is waitinig 40s to join a queue
+customer 33 is waitinig 20s to join a queue
+customer 25 could not find a spot, forced to leave...
+the queue is still full, customer 33 will come back in 600s
+customer 26 is waitinig 40s to join a queue
+customer 34 is waitinig 20s to join a queue
+customer 26 could not find a spot, forced to leave...
+the queue is still full, customer 34 will come back in 600s
+Customer 25 was served by Timmy
+Timmy is now taking 539.5958256244469 seconds to serve customer 31
+
+customer 27 is waitinig 40s to join a queue
+Customer 26 was served by John
+John is now taking 389.319615493073 seconds to serve customer 30
+
+customer 35 was queued, time until next customer: 87.13960503386042
+
+customer 27 could not find a spot, forced to leave...
+Customer 26 was served by Mabel
+Mabel is now taking 451.8966849866686 seconds to serve customer 32
+
+customer 28 is waitinig 40s to join a queue
+customer 36 is waitinig 20s to join a queue
+customer 28 could not find a spot, forced to leave...
+the queue is still full, customer 36 will come back in 600s
+customer 29 is waitinig 40s to join a queue
+customer 37 is waitinig 20s to join a queue
+customer 29 could not find a spot, forced to leave...
+the queue is still full, customer 37 will come back in 600s
+customer 38 is waitinig 20s to join a queue
+the queue is still full, customer 38 will come back in 600s
+customer 39 is waitinig 20s to join a queue
+the queue is still full, customer 39 will come back in 600s
+customer 40 is waitinig 20s to join a queue
+the queue is still full, customer 40 will come back in 600s
+Customer 30 was served by John
+John is now taking 485.89176515037775 seconds to serve customer 35
+
+customer 32 is waitinig 40s to join a queue
+customer 41 is waitinig 20s to join a queue
+customer 32 could not find a spot, forced to leave...
+the queue is still full, customer 41 will come back in 600s
+customer 33 is waitinig 40s to join a queue
+customer 42 is waitinig 20s to join a queue
+Customer 31 was served by Timmy
+Timmy is now taking 581.3450159803751 seconds to serve customer 35
+
+customer 33 could not find a spot, forced to leave...
+the queue is still full, customer 42 will come back in 600s
+Customer 32 was served by Mabel
+Mabel is now taking 514.5875246305826 seconds to serve customer 36
+
+customer 34 is waitinig 40s to join a queue
+customer 43 is waitinig 20s to join a queue
+customer 34 could not find a spot, forced to leave...
+the queue is still full, customer 43 will come back in 600s
+customer 44 is waitinig 20s to join a queue
+the queue is still full, customer 44 will come back in 600s
+customer 45 is waitinig 20s to join a queue
+the queue is still full, customer 45 will come back in 600s
+customer 36 is waitinig 40s to join a queue
+customer 36 could not find a spot, forced to leave...
+customer 46 is waitinig 20s to join a queue
+customer 37 is waitinig 40s to join a queue
+the queue is still full, customer 46 will come back in 600s
+customer 37 could not find a spot, forced to leave...
+customer 38 is waitinig 40s to join a queue
+customer 47 is waitinig 20s to join a queue
+Customer 35 was served by John
+John is now taking 313.86904623520024 seconds to serve customer 41
+
+the queue is still full, customer 47 will come back in 600s
+customer 38 could not find a spot, forced to leave...
+customer 39 is waitinig 40s to join a queue
+customer 48 is waitinig 20s to join a queue
+customer 39 could not find a spot, forced to leave...
+the queue is still full, customer 48 will come back in 600s
+customer 40 is waitinig 40s to join a queue
+customer 40 could not find a spot, forced to leave...
+customer 49 is waitinig 20s to join a queue
+Customer 36 was served by Mabel
+Mabel is now taking 489.00469797326934 seconds to serve customer 43
+
+the queue is still full, customer 49 will come back in 600s
+customer 41 is waitinig 40s to join a queue
+customer 41 could not find a spot, forced to leave...
+Customer 35 was served by Timmy
+Timmy is now taking 322.67518231981796 seconds to serve customer 43
+
+customer 50 was queued, time until next customer: 85.84787917071215
+
+customer 42 is waitinig 40s to join a queue
+customer 42 could not find a spot, forced to leave...
+Customer 41 was served by John
+John is now taking 420.35318972666147 seconds to serve customer 48
+
+customer 51 was queued, time until next customer: 99.5413808462732
+
+customer 43 is waitinig 40s to join a queue
+customer 43 could not find a spot, forced to leave...
+customer 44 is waitinig 40s to join a queue
+customer 52 is waitinig 20s to join a queue
+customer 44 could not find a spot, forced to leave...
+the queue is still full, customer 52 will come back in 600s
+customer 45 is waitinig 40s to join a queue
+customer 45 could not find a spot, forced to leave...
+customer 53 is waitinig 20s to join a queue
+customer 46 is waitinig 40s to join a queue
+the queue is still full, customer 53 will come back in 600s
+Customer 43 was served by Timmy
+Timmy is now taking 310.2119008010433 seconds to serve customer 50
+
+customer 46 could not find a spot, forced to leave...
+customer 54 is waitinig 20s to join a queue
+customer 47 is waitinig 40s to join a queue
+the queue is still full, customer 54 will come back in 600s
+customer 47 could not find a spot, forced to leave...
+Customer 43 was served by Mabel
+Mabel is now taking 392.13337637458153 seconds to serve customer 50
+
+customer 55 was queued, time until next customer: 82.4655888384358
+
+customer 48 is waitinig 40s to join a queue
+Customer 48 was served by John
+John is now taking 505.5555111474932 seconds to serve customer 51
+
+customer 48 could not find a spot, forced to leave...
+customer 49 is waitinig 40s to join a queue
+customer 56 is waitinig 20s to join a queue
+the queue is still full, customer 56 will come back in 600s
+customer 49 could not find a spot, forced to leave...
+Customer 50 was served by Timmy
+Timmy is now taking 339.3940565450899 seconds to serve customer 54
+
+customer 57 was queued, time until next customer: 58.88294713326517
+
+customer 58 is waitinig 20s to join a queue
+the queue is still full, customer 58 will come back in 600s
+customer 59 is waitinig 20s to join a queue
+the queue is still full, customer 59 will come back in 600s
+customer 52 is waitinig 40s to join a queue
+Customer 50 was served by Mabel
+Mabel is now taking 419.8895735697569 seconds to serve customer 55
+
+customer 60 was queued, time until next customer: 62.854506774495924
+
+customer 52 could not find a spot, forced to leave...
+customer 53 is waitinig 40s to join a queue
+customer 61 is waitinig 20s to join a queue
+the queue is still full, customer 61 will come back in 600s
+customer 53 could not find a spot, forced to leave...
+Customer 54 was served by Timmy
+Timmy is now taking 418.0133803098789 seconds to serve customer 57
+
+customer 54 is waitinig 40s to join a queue
+customer 62 is waitinig 20s to join a queue
+Customer 51 was served by John
+John is now taking 341.93031216351477 seconds to serve customer 56
+
+the queue is still full, customer 62 will come back in 600s
+customer 54 could not find a spot, forced to leave...
+customer 63 is waitinig 20s to join a queue
+the queue is still full, customer 63 will come back in 600s
+customer 56 is waitinig 40s to join a queue
+customer 64 is waitinig 20s to join a queue
+the queue is still full, customer 64 will come back in 600s
+customer 56 could not find a spot, forced to leave...
+customer 65 is waitinig 20s to join a queue
+the queue is still full, customer 65 will come back in 600s
+Customer 55 was served by Mabel
+Mabel is now taking 572.4893347147639 seconds to serve customer 60
+
+customer 66 was queued, time until next customer: 79.43136284750022
+
+customer 58 is waitinig 40s to join a queue
+customer 58 could not find a spot, forced to leave...
+Customer 56 was served by John
+John is now taking 444.73615126396265 seconds to serve customer 63
+
+customer 67 was queued, time until next customer: 54.225690525948394
+
+customer 59 is waitinig 40s to join a queue
+Customer 57 was served by Timmy
+Timmy is now taking 535.6296929040748 seconds to serve customer 62
+
+customer 59 could not find a spot, forced to leave...
+customer 68 is waitinig 20s to join a queue
+the queue is still full, customer 68 will come back in 600s
+customer 69 is waitinig 20s to join a queue
+the queue is still full, customer 69 will come back in 600s
+customer 61 is waitinig 40s to join a queue
+customer 70 is waitinig 20s to join a queue
+customer 61 could not find a spot, forced to leave...
+the queue is still full, customer 70 will come back in 600s
+customer 62 is waitinig 40s to join a queue
+customer 71 is waitinig 20s to join a queue
+customer 62 could not find a spot, forced to leave...
+the queue is still full, customer 71 will come back in 600s
+customer 63 is waitinig 40s to join a queue
+customer 72 is waitinig 20s to join a queue
+customer 63 could not find a spot, forced to leave...
+the queue is still full, customer 72 will come back in 600s
+customer 64 is waitinig 40s to join a queue
+customer 73 is waitinig 20s to join a queue
+Customer 63 was served by John
+John is now taking 589.0672367887415 seconds to serve customer 67
+
+Customer 60 was served by Mabel
+Mabel is now taking 387.51444153989394 seconds to serve customer 66
+
+the queue is still full, customer 73 will come back in 600s
+customer 64 could not find a spot, forced to leave...
+customer 65 is waitinig 40s to join a queue
+customer 74 is waitinig 20s to join a queue
+the queue is still full, customer 74 will come back in 600s
+customer 65 could not find a spot, forced to leave...
+Customer 62 was served by Timmy
+Timmy is now taking 573.2488206094124 seconds to serve customer 68
+
+customer 75 was queued, time until next customer: 77.38059116245014
+
+customer 76 is waitinig 20s to join a queue
+customer 68 is waitinig 40s to join a queue
+the queue is still full, customer 76 will come back in 600s
+customer 68 could not find a spot, forced to leave...
+customer 77 is waitinig 20s to join a queue
+customer 69 is waitinig 40s to join a queue
+the queue is still full, customer 77 will come back in 600s
+customer 69 could not find a spot, forced to leave...
+customer 78 is waitinig 20s to join a queue
+customer 70 is waitinig 40s to join a queue
+the queue is still full, customer 78 will come back in 600s
+Customer 66 was served by Mabel
+Mabel is now taking 538.9892622986125 seconds to serve customer 74
+
+customer 70 could not find a spot, forced to leave...
+customer 79 is waitinig 20s to join a queue
+the queue is still full, customer 79 will come back in 600s
+customer 71 is waitinig 40s to join a queue
+customer 80 is waitinig 20s to join a queue
+customer 71 could not find a spot, forced to leave...
+the queue is still full, customer 80 will come back in 600s
+customer 72 is waitinig 40s to join a queue
+customer 81 is waitinig 20s to join a queue
+customer 72 could not find a spot, forced to leave...
+Customer 67 was served by John
+John is now taking 524.5708897807518 seconds to serve customer 74
+
+the queue is still full, customer 81 will come back in 600s
+customer 73 is waitinig 40s to join a queue
+customer 82 is waitinig 20s to join a queue
+the queue is still full, customer 82 will come back in 600s
+customer 73 could not find a spot, forced to leave...
+customer 74 is waitinig 40s to join a queue
+Customer 68 was served by Timmy
+Timmy is now taking 456.4103542897633 seconds to serve customer 75
+
+customer 74 could not find a spot, forced to leave...
+customer 83 is waitinig 20s to join a queue
+the queue is still full, customer 83 will come back in 600s
+customer 84 is waitinig 20s to join a queue
+the queue is still full, customer 84 will come back in 600s
+customer 76 is waitinig 40s to join a queue
+customer 76 could not find a spot, forced to leave...
+customer 85 is waitinig 20s to join a queue
+the queue is still full, customer 85 will come back in 600s
+customer 77 is waitinig 40s to join a queue
+Customer 74 was served by Mabel
+Mabel is now taking 518.6805836774164 seconds to serve customer 79
+
+customer 86 was queued, time until next customer: 58.82530599703967
+
+customer 77 could not find a spot, forced to leave...
+customer 78 is waitinig 40s to join a queue
+customer 87 is waitinig 20s to join a queue
+customer 78 could not find a spot, forced to leave...
+the queue is still full, customer 87 will come back in 600s
+customer 79 is waitinig 40s to join a queue
+customer 88 is waitinig 20s to join a queue
+the queue is still full, customer 88 will come back in 600s
+customer 79 could not find a spot, forced to leave...
+Customer 74 was served by John
+John is now taking 525.3777892947153 seconds to serve customer 82
+
+customer 80 is waitinig 40s to join a queue
+Customer 75 was served by Timmy
+Timmy is now taking 433.59609363931054 seconds to serve customer 83
+
+customer 89 was queued, time until next customer: 81.75329073044483
+
+customer 80 could not find a spot, forced to leave...
+customer 81 is waitinig 40s to join a queue
+customer 81 could not find a spot, forced to leave...
+customer 90 is waitinig 20s to join a queue
+customer 82 is waitinig 40s to join a queue
+the queue is still full, customer 90 will come back in 600s
+customer 82 could not find a spot, forced to leave...
+customer 91 is waitinig 20s to join a queue
+the queue is still full, customer 91 will come back in 600s
+customer 83 is waitinig 40s to join a queue
+customer 92 is waitinig 20s to join a queue
+customer 83 could not find a spot, forced to leave...
+the queue is still full, customer 92 will come back in 600s
+customer 84 is waitinig 40s to join a queue
+customer 93 is waitinig 20s to join a queue
+Customer 79 was served by Mabel
+Mabel is now taking 389.25098758189375 seconds to serve customer 86
+
+customer 84 could not find a spot, forced to leave...
+the queue is still full, customer 93 will come back in 600s
+customer 85 is waitinig 40s to join a queue
+customer 94 is waitinig 20s to join a queue
+customer 85 could not find a spot, forced to leave...
+the queue is still full, customer 94 will come back in 600s
+Customer 83 was served by Timmy
+Timmy is now taking 561.1982379340868 seconds to serve customer 89
+
+customer 95 was queued, time until next customer: 82.38843386459071
+
+customer 87 is waitinig 40s to join a queue
+Customer 82 was served by John
+John is now taking 318.6857706161543 seconds to serve customer 89
+
+customer 96 was queued, time until next customer: 81.87621218035933
+
+customer 87 could not find a spot, forced to leave...
+customer 88 is waitinig 40s to join a queue
+customer 88 could not find a spot, forced to leave...
+customer 97 is waitinig 20s to join a queue
+the queue is still full, customer 97 will come back in 600s
+customer 98 is waitinig 20s to join a queue
+the queue is still full, customer 98 will come back in 600s
+Customer 86 was served by Mabel
+Mabel is now taking 421.54679869765806 seconds to serve customer 94
+
+customer 90 is waitinig 40s to join a queue
+customer 99 is waitinig 20s to join a queue
+the queue is still full, customer 99 will come back in 600s
+customer 90 could not find a spot, forced to leave...
+customer 91 is waitinig 40s to join a queue
+Customer 89 was served by John
+John is now taking 523.1182731870128 seconds to serve customer 96
+
+customer 91 could not find a spot, forced to leave...
+customer 100 is waitinig 20s to join a queue
+customer 92 is waitinig 40s to join a queue
+the queue is still full, customer 100 will come back in 600s
+customer 92 could not find a spot, forced to leave...
+customer 101 is waitinig 20s to join a queue
+the queue is still full, customer 101 will come back in 600s
+customer 93 is waitinig 40s to join a queue
+customer 102 is waitinig 20s to join a queue
+customer 93 could not find a spot, forced to leave...
+the queue is still full, customer 102 will come back in 600s
+Customer 89 was served by Timmy
+Timmy is now taking 364.8501605871162 seconds to serve customer 95
+
+customer 94 is waitinig 40s to join a queue
+customer 94 could not find a spot, forced to leave...
+customer 103 is waitinig 20s to join a queue
+the queue is still full, customer 103 will come back in 600s
+customer 104 is waitinig 20s to join a queue
+Customer 94 was served by Mabel
+Mabel is now taking 441.76451280397384 seconds to serve customer 99
+
+the queue is still full, customer 104 will come back in 600s
+customer 105 is waitinig 20s to join a queue
+customer 97 is waitinig 40s to join a queue
+the queue is still full, customer 105 will come back in 600s
+customer 97 could not find a spot, forced to leave...
+customer 98 is waitinig 40s to join a queue
+customer 106 is waitinig 20s to join a queue
+the queue is still full, customer 106 will come back in 600s
+customer 98 could not find a spot, forced to leave...
+Customer 96 was served by John
+John is now taking 485.30972079454506 seconds to serve customer 100
+
+Customer 95 was served by Timmy
+Timmy is now taking 509.09462480882877 seconds to serve customer 103
+
+customer 99 is waitinig 40s to join a queue
+customer 107 was queued, time until next customer: 76.8831983039894
+
+customer 99 could not find a spot, forced to leave...
+customer 100 is waitinig 40s to join a queue
+customer 108 is waitinig 20s to join a queue
+the queue is still full, customer 108 will come back in 600s
+customer 100 could not find a spot, forced to leave...
+customer 101 is waitinig 40s to join a queue
+customer 109 is waitinig 20s to join a queue
+the queue is still full, customer 109 will come back in 600s
+Customer 99 was served by Mabel
+Mabel is now taking 569.2126280506808 seconds to serve customer 105
+
+customer 101 could not find a spot, forced to leave...
+customer 102 is waitinig 40s to join a queue
+customer 110 is waitinig 20s to join a queue
+customer 102 could not find a spot, forced to leave...
+the queue is still full, customer 110 will come back in 600s
+customer 103 is waitinig 40s to join a queue
+customer 111 is waitinig 20s to join a queue
+the queue is still full, customer 111 will come back in 600s
+customer 103 could not find a spot, forced to leave...
+customer 104 is waitinig 40s to join a queue
+customer 112 is waitinig 20s to join a queue
+the queue is still full, customer 112 will come back in 600s
+customer 104 could not find a spot, forced to leave...
+customer 113 is waitinig 20s to join a queue
+Customer 100 was served by John
+John is now taking 486.18205065810434 seconds to serve customer 107
+
+customer 105 is waitinig 40s to join a queue
+the queue is still full, customer 113 will come back in 600s
+customer 105 could not find a spot, forced to leave...
+Customer 103 was served by Timmy
+Timmy is now taking 368.4576095350295 seconds to serve customer 107
+
+customer 114 was queued, time until next customer: 96.34177741812908
+customer 106 is waitinig 40s to join a queue
+
+customer 106 could not find a spot, forced to leave...
+customer 115 is waitinig 20s to join a queue
+the queue is still full, customer 115 will come back in 600s
+customer 108 is waitinig 40s to join a queue
+customer 116 is waitinig 20s to join a queue
+the queue is still full, customer 116 will come back in 600s
+customer 108 could not find a spot, forced to leave...
+Customer 105 was served by Mabel
+Mabel is now taking 430.2621600937321 seconds to serve customer 110
+
+customer 109 is waitinig 40s to join a queue
+customer 117 is waitinig 20s to join a queue
+the queue is still full, customer 117 will come back in 600s
+customer 109 could not find a spot, forced to leave...
+customer 110 is waitinig 40s to join a queue
+Customer 107 was served by Timmy
+Timmy is now taking 511.810386779527 seconds to serve customer 114
+
+customer 118 was queued, time until next customer: 80.18740552297629
+
+customer 110 could not find a spot, forced to leave...
+customer 111 is waitinig 40s to join a queue
+Customer 107 was served by John
+John is now taking 366.631122071643 seconds to serve customer 114
+
+customer 119 was queued, time until next customer: 79.8602603907202
+
+customer 111 could not find a spot, forced to leave...
+customer 112 is waitinig 40s to join a queue
+customer 112 could not find a spot, forced to leave...
+customer 120 is waitinig 20s to join a queue
+customer 113 is waitinig 40s to join a queue
+the queue is still full, customer 120 will come back in 600s
+customer 121 is waitinig 20s to join a queue
+customer 113 could not find a spot, forced to leave...
+the queue is still full, customer 121 will come back in 600s
+customer 122 is waitinig 20s to join a queue
+the queue is still full, customer 122 will come back in 600s
+Customer 110 was served by Mabel
+Mabel is now taking 468.52389948849276 seconds to serve customer 117
+
+customer 123 was queued, time until next customer: 81.65215969041827
+
+customer 115 is waitinig 40s to join a queue
+customer 115 could not find a spot, forced to leave...
+Customer 114 was served by John
+John is now taking 511.33930557661193 seconds to serve customer 119
+
+customer 124 was queued, time until next customer: 85.94920442018153
+
+customer 116 is waitinig 40s to join a queue
+customer 116 could not find a spot, forced to leave...
+Customer 114 was served by Timmy
+Timmy is now taking 404.29199889523926 seconds to serve customer 118
+
+customer 125 was queued, time until next customer: 75.83808272830956
+
+customer 117 is waitinig 40s to join a queue
+customer 117 could not find a spot, forced to leave...
+customer 126 is waitinig 20s to join a queue
+the queue is still full, customer 126 will come back in 600s
+customer 127 is waitinig 20s to join a queue
+the queue is still full, customer 127 will come back in 600s
+customer 128 is waitinig 20s to join a queue
+the queue is still full, customer 128 will come back in 600s
+Customer 117 was served by Mabel
+Mabel is now taking 376.92009619895913 seconds to serve customer 123
+
+customer 120 is waitinig 40s to join a queue
+customer 129 is waitinig 20s to join a queue
+the queue is still full, customer 129 will come back in 600scustomer 120 could not find a spot, forced to leave...
+
+customer 121 is waitinig 40s to join a queue
+customer 121 could not find a spot, forced to leave...
+customer 130 is waitinig 20s to join a queue
+Customer 118 was served by Timmy
+Timmy is now taking 390.2511487461999 seconds to serve customer 125
+
+customer 122 is waitinig 40s to join a queue
+the queue is still full, customer 130 will come back in 600s
+Customer 119 was served by John
+John is now taking 563.9655893933638 seconds to serve customer 124
+
+customer 122 could not find a spot, forced to leave...
+customer 131 is waitinig 20s to join a queue
+the queue is still full, customer 131 will come back in 600s
+customer 132 is waitinig 20s to join a queue
+the queue is still full, customer 132 will come back in 600s
+customer 133 is waitinig 20s to join a queue
+the queue is still full, customer 133 will come back in 600s
+Customer 123 was served by Mabel
+Mabel is now taking 309.7235450756994 seconds to serve customer 129
+
+customer 134 was queued, time until next customer: 58.42072839829784
+
+customer 126 is waitinig 40s to join a queue
+customer 135 is waitinig 20s to join a queue
+customer 126 could not find a spot, forced to leave...
+the queue is still full, customer 135 will come back in 600s
+customer 127 is waitinig 40s to join a queue
+Customer 125 was served by Timmy
+Timmy is now taking 389.17793626738114 seconds to serve customer 131
+
+customer 136 was queued, time until next customer: 63.85246914911761
+
+customer 127 could not find a spot, forced to leave...
+customer 128 is waitinig 40s to join a queue
+customer 137 is waitinig 20s to join a queue
+customer 128 could not find a spot, forced to leave...
+the queue is still full, customer 137 will come back in 600s
+customer 138 is waitinig 20s to join a queue
+customer 129 is waitinig 40s to join a queue
+the queue is still full, customer 138 will come back in 600s
+customer 129 could not find a spot, forced to leave...
+Customer 129 was served by Mabel
+Mabel is now taking 535.3852042163616 seconds to serve customer 134
+
+Customer 124 was served by John
+John is now taking 512.2428987471693 seconds to serve customer 131
+
+customer 139 was queued, time until next customer: 87.55855063533221
+
+customer 130 is waitinig 40s to join a queue
+customer 130 could not find a spot, forced to leave...
+customer 131 is waitinig 40s to join a queue
+customer 140 is waitinig 20s to join a queue
+the queue is still full, customer 140 will come back in 600s
+customer 131 could not find a spot, forced to leave...
+customer 132 is waitinig 40s to join a queue
+customer 141 is waitinig 20s to join a queue
+Customer 131 was served by Timmy
+Timmy is now taking 536.2395254032955 seconds to serve customer 136
+
+the queue is still full, customer 141 will come back in 600s
+customer 132 could not find a spot, forced to leave...
+customer 133 is waitinig 40s to join a queue
+customer 142 is waitinig 20s to join a queue
+the queue is still full, customer 142 will come back in 600s
+customer 133 could not find a spot, forced to leave...
+customer 143 is waitinig 20s to join a queue
+the queue is still full, customer 143 will come back in 600s
+customer 135 is waitinig 40s to join a queue
+customer 135 could not find a spot, forced to leave...
+customer 144 is waitinig 20s to join a queue
+the queue is still full, customer 144 will come back in 600s
+customer 145 is waitinig 20s to join a queue
+customer 137 is waitinig 40s to join a queue
+the queue is still full, customer 145 will come back in 600s
+Customer 134 was served by Mabel
+Mabel is now taking 436.3850365627867 seconds to serve customer 139
+
+Customer 131 was served by John
+John is now taking 547.7161915134902 seconds to serve customer 140
+
+customer 137 could not find a spot, forced to leave...
+customer 138 is waitinig 40s to join a queue
+customer 146 is waitinig 20s to join a queue
+customer 138 could not find a spot, forced to leave...
+the queue is still full, customer 146 will come back in 600s
+customer 147 is waitinig 20s to join a queue
+the queue is still full, customer 147 will come back in 600s
+Customer 136 was served by Timmy
+Timmy is now taking 531.1426814288793 seconds to serve customer 142
+
+customer 140 is waitinig 40s to join a queue
+customer 148 is waitinig 20s to join a queue
+the queue is still full, customer 148 will come back in 600s
+customer 140 could not find a spot, forced to leave...
+customer 141 is waitinig 40s to join a queue
+customer 149 is waitinig 20s to join a queue
+customer 141 could not find a spot, forced to leave...the queue is still full, customer 149 will come back in 600s
+
+customer 150 is waitinig 20s to join a queue
+customer 142 is waitinig 40s to join a queue
+the queue is still full, customer 150 will come back in 600s
+customer 142 could not find a spot, forced to leave...
+customer 143 is waitinig 40s to join a queue
+Customer 139 was served by Mabel
+Mabel is now taking 438.07543180871494 seconds to serve customer 146
+
+customer 151 was queued, time until next customer: 70.38782214992861
+
+customer 143 could not find a spot, forced to leave...
+customer 152 is waitinig 20s to join a queue
+customer 144 is waitinig 40s to join a queue
+the queue is still full, customer 152 will come back in 600s
+Customer 140 was served by John
+John is now taking 574.9422635872145 seconds to serve customer 146
+
+customer 144 could not find a spot, forced to leave...
+customer 153 is waitinig 20s to join a queue
+the queue is still full, customer 153 will come back in 600s
+customer 145 is waitinig 40s to join a queue
+customer 145 could not find a spot, forced to leave...
+customer 154 is waitinig 20s to join a queue
+the queue is still full, customer 154 will come back in 600s
+customer 146 is waitinig 40s to join a queue
+customer 146 could not find a spot, forced to leave...
+Customer 142 was served by Timmy
+Timmy is now taking 401.65907175639927 seconds to serve customer 148
+
+customer 155 was queued, time until next customer: 77.14251178179221
+
+customer 147 is waitinig 40s to join a queue
+customer 147 could not find a spot, forced to leave...
+customer 156 is waitinig 20s to join a queue
+customer 148 is waitinig 40s to join a queuethe queue is still full, customer 156 will come back in 600s
+
+Customer 146 was served by Mabel
+Mabel is now taking 584.6685581249579 seconds to serve customer 151
+
+customer 148 could not find a spot, forced to leave...
+customer 157 is waitinig 20s to join a queue
+the queue is still full, customer 157 will come back in 600s
+customer 149 is waitinig 40s to join a queue
+customer 158 is waitinig 20s to join a queue
+customer 149 could not find a spot, forced to leave...
+the queue is still full, customer 158 will come back in 600s
+customer 150 is waitinig 40s to join a queue
+customer 150 could not find a spot, forced to leave...
+customer 159 is waitinig 20s to join a queue
+the queue is still full, customer 159 will come back in 600s
+customer 160 is waitinig 20s to join a queue
+the queue is still full, customer 160 will come back in 600s
+Customer 146 was served by John
+John is now taking 481.1375427329075 seconds to serve customer 153
+
+customer 152 is waitinig 40s to join a queue
+Customer 148 was served by Timmy
+Timmy is now taking 513.7423087465476 seconds to serve customer 155
+
+customer 161 was queued, time until next customer: 52.15307535235991
+
+customer 152 could not find a spot, forced to leave...
+customer 153 is waitinig 40s to join a queue
+customer 162 is waitinig 20s to join a queue
+the queue is still full, customer 162 will come back in 600s
+customer 153 could not find a spot, forced to leave...
+customer 163 is waitinig 20s to join a queue
+customer 154 is waitinig 40s to join a queuethe queue is still full, customer 163 will come back in 600s
+
+customer 154 could not find a spot, forced to leave...
+customer 164 is waitinig 20s to join a queue
+the queue is still full, customer 164 will come back in 600s
+customer 165 is waitinig 20s to join a queue
+customer 156 is waitinig 40s to join a queue
+the queue is still full, customer 165 will come back in 600s
+Customer 151 was served by Mabel
+Mabel is now taking 483.3253994241864 seconds to serve customer 157
+
+customer 156 could not find a spot, forced to leave...
+customer 166 is waitinig 20s to join a queue
+customer 157 is waitinig 40s to join a queue
+the queue is still full, customer 166 will come back in 600s
+customer 157 could not find a spot, forced to leave...
+customer 158 is waitinig 40s to join a queue
+customer 167 is waitinig 20s to join a queue
+the queue is still full, customer 167 will come back in 600s
+customer 158 could not find a spot, forced to leave...
+Customer 153 was served by John
+John is now taking 522.055684233239 seconds to serve customer 161
+
+customer 159 is waitinig 40s to join a queue
+customer 168 is waitinig 20s to join a queue
+Customer 155 was served by Timmy
+Timmy is now taking 513.6463101524757 seconds to serve customer 161
+
+the queue is still full, customer 168 will come back in 600s
+customer 159 could not find a spot, forced to leave...
+customer 160 is waitinig 40s to join a queue
+customer 169 is waitinig 20s to join a queue
+customer 160 could not find a spot, forced to leave...
+the queue is still full, customer 169 will come back in 600s
+customer 162 is waitinig 40s to join a queue
+customer 170 is waitinig 20s to join a queue
+the queue is still full, customer 170 will come back in 600s
+customer 162 could not find a spot, forced to leave...
+customer 163 is waitinig 40s to join a queue
+customer 171 is waitinig 20s to join a queue
+the queue is still full, customer 171 will come back in 600s
+customer 163 could not find a spot, forced to leave...
+Customer 157 was served by Mabel
+Mabel is now taking 346.3625597092734 seconds to serve customer 166
+
+customer 172 was queued, time until next customer: 69.19109396611833
+
+customer 164 is waitinig 40s to join a queue
+customer 164 could not find a spot, forced to leave...
+customer 173 is waitinig 20s to join a queue
+the queue is still full, customer 173 will come back in 600s
+customer 165 is waitinig 40s to join a queue
+customer 165 could not find a spot, forced to leave...
+customer 174 is waitinig 20s to join a queue
+customer 166 is waitinig 40s to join a queue
+the queue is still full, customer 174 will come back in 600s
+Customer 161 was served by John
+John is now taking 360.29835290630706 seconds to serve customer 168
+
+customer 166 could not find a spot, forced to leave...
+Customer 161 was served by Timmy
+Timmy is now taking 593.5670535127699 seconds to serve customer 169
+
+customer 167 is waitinig 40s to join a queue
+customer 175 is waitinig 20s to join a queue
+the queue is still full, customer 175 will come back in 600s
+customer 167 could not find a spot, forced to leave...
+customer 168 is waitinig 40s to join a queue
+customer 176 is waitinig 20s to join a queue
+Customer 166 was served by Mabel
+Mabel is now taking 575.1116796616316 seconds to serve customer 172
+
+the queue is still full, customer 176 will come back in 600s
+customer 168 could not find a spot, forced to leave...
+customer 169 is waitinig 40s to join a queue
+customer 177 is waitinig 20s to join a queue
+the queue is still full, customer 177 will come back in 600s
+customer 169 could not find a spot, forced to leave...
+customer 178 is waitinig 20s to join a queue
+customer 170 is waitinig 40s to join a queue
+the queue is still full, customer 178 will come back in 600s
+customer 179 is waitinig 20s to join a queue
+customer 170 could not find a spot, forced to leave...
+Customer 168 was served by John
+John is now taking 445.8958062857664 seconds to serve customer 175
+
+the queue is still full, customer 179 will come back in 600s
+customer 171 is waitinig 40s to join a queue
+customer 171 could not find a spot, forced to leave...
+customer 180 is waitinig 20s to join a queue
+the queue is still full, customer 180 will come back in 600s
+customer 181 is waitinig 20s to join a queue
+customer 173 is waitinig 40s to join a queue
+the queue is still full, customer 181 will come back in 600s
+customer 173 could not find a spot, forced to leave...
+customer 174 is waitinig 40s to join a queue
+customer 182 is waitinig 20s to join a queue
+the queue is still full, customer 182 will come back in 600s
+customer 174 could not find a spot, forced to leave...
+Customer 169 was served by Timmy
+Timmy is now taking 364.9457106608796 seconds to serve customer 175
+
+customer 175 is waitinig 40s to join a queue
+customer 183 is waitinig 20s to join a queue
+the queue is still full, customer 183 will come back in 600s
+customer 175 could not find a spot, forced to leave...
+Customer 172 was served by Mabel
+Mabel is now taking 448.9695657394614 seconds to serve customer 177
+
+customer 176 is waitinig 40s to join a queue
+customer 184 is waitinig 20s to join a queue
+the queue is still full, customer 184 will come back in 600s
+Customer 175 was served by John
+John is now taking 535.1982344500866 seconds to serve customer 180
+
+customer 176 could not find a spot, forced to leave...
+customer 177 is waitinig 40s to join a queue
+customer 185 is waitinig 20s to join a queue
+the queue is still full, customer 185 will come back in 600s
+customer 177 could not find a spot, forced to leave...
+customer 178 is waitinig 40s to join a queue
+customer 186 is waitinig 20s to join a queue
+customer 178 could not find a spot, forced to leave...
+customer 179 is waitinig 40s to join a queue
+the queue is still full, customer 186 will come back in 600s
+Customer 175 was served by Timmy
+Timmy is now taking 336.0187652980543 seconds to serve customer 183
+
+customer 179 could not find a spot, forced to leave...
+customer 180 is waitinig 40s to join a queue
+customer 187 is waitinig 20s to join a queue
+the queue is still full, customer 187 will come back in 600s
+customer 180 could not find a spot, forced to leave...
+customer 181 is waitinig 40s to join a queue
+customer 188 is waitinig 20s to join a queue
+Total number of customers that arrived: 233
+Total number of customers forced to leave: 141
+Total number of customers that were served: 92
+
+Average time taken to serve each customer: 452.4170310892264
