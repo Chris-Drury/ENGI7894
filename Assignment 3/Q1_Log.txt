@@ -1,0 +1,42 @@
+car av1 is driving LEFT....
+car av2 is driving STRAIGHT....
+car bv1 is driving RIGHT....
+
+car cv1 cannot turn left yet! waiting 1 second...car bv2 is driving RIGHT....
+car av3 is driving LEFT....
+
+All cars have left road a
+All cars have left road b
+
+
+
+
+
+
+car cv1 cannot turn left yet! waiting 1 second...
+car av1 is through!
+
+car av2 is through!
+
+car bv1 is through!
+
+car av3 is through!
+car bv2 is through!
+
+
+car cv1 is driving LEFT....
+All cars have left road c
+
+
+car cv1 is through!
+
+The CA lights are now yellow!
+The CA lights are now red!
+The BD lights are now green!
+car dv1 is driving LEFT....
+All cars have left road d
+
+
+car dv1 is through!
+
+Simulation Complete!

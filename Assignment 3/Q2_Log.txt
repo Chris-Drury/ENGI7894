@@ -1,0 +1,854 @@
+Changing the number of cars to 50 per road...
+human error is introduced, cars will not always wait 3 seconds at a red
+when caught, simulation will terminate
+car av1 is driving LEFT....
+
+car av2 is driving STRAIGHT....
+
+car cv1 is driving RIGHT....
+
+car av3 is driving STRAIGHT....
+
+car cv2 is driving RIGHT....
+car av4 is driving RIGHT....
+
+car av6 cannot turn left yet! waiting 1 second...
+car cv3 is driving STRAIGHT....
+car av5 is driving RIGHT....
+
+
+
+car av3 is through!
+car cv4 cannot turn left yet! waiting 1 second...
+car av2 is through!
+car av1 is through!
+
+car cv1 is through!
+The CA lights are now yellow!
+
+
+
+car av6 cannot turn left yet! waiting 1 second...
+car cv4 is driving LEFT....
+
+car cv5 is driving STRAIGHT....
+
+car cv6 is driving RIGHT....
+
+car cv7 is driving STRAIGHT....
+
+car cv8 is driving LEFT....
+
+car cv9 is driving STRAIGHT....
+
+car cv10 is driving STRAIGHT....
+
+car cv11 is driving LEFT....
+
+car cv12 is driving RIGHT....
+
+car cv13 is driving LEFT....
+
+car cv14 is driving STRAIGHT....
+
+car cv15 is driving STRAIGHT....
+
+car cv16 is driving STRAIGHT....
+
+car cv17 is driving RIGHT....
+car cv18 is driving LEFT....
+
+
+car cv19 is driving LEFT....
+
+car cv20 is driving LEFT....
+
+car cv21 is driving LEFT....
+
+car cv22 is driving LEFT....
+
+car cv23 is driving RIGHT....
+
+car cv24 is driving LEFT....
+car cv25 is driving RIGHT....
+car av4 is through!
+car cv3 is through!
+car cv2 is through!
+
+car av5 is through!
+car cv26 is driving LEFT....
+car av6 cannot turn left yet! waiting 1 second...
+car cv27 is driving LEFT....
+
+car cv28 is driving RIGHT....
+
+car cv29 is driving RIGHT....
+
+
+car cv31 is driving STRAIGHT....
+
+The CA lights are now red!
+car cv32 is driving LEFT....
+
+
+
+car cv30 is driving STRAIGHT....
+
+
+
+
+The BD lights are now green!
+car dv1 is driving STRAIGHT....
+car dv2 is driving STRAIGHT....
+car bv1 cannot turn left yet! waiting 1 second...
+car dv3 is driving STRAIGHT....
+car cv5 is through!
+car dv4 is driving STRAIGHT....
+
+car dv5 is driving LEFT....
+
+car cv6 is through!
+car dv6 is driving RIGHT....
+car cv4 is through!
+
+car dv7 is driving STRAIGHT....
+
+car dv8 is driving LEFT....
+car dv9 is driving RIGHT....
+
+car cv7 is through!
+car dv10 is driving LEFT....
+
+car dv11 is driving LEFT....
+car cv8 is through!
+car dv12 is driving STRAIGHT....
+car dv13 is driving LEFT....
+
+
+car dv14 is driving LEFT....
+
+car dv15 is driving LEFT....
+car dv16 is driving STRAIGHT....
+
+car dv17 is driving RIGHT....
+car cv9 is through!
+car dv18 is driving RIGHT....
+
+
+car dv19 is driving RIGHT....
+car dv20 is driving LEFT....
+
+car dv21 is driving STRAIGHT....
+
+car dv22 is driving STRAIGHT....
+car cv10 is through!
+car dv23 is driving STRAIGHT....
+
+car cv11 is through!
+car dv24 is driving LEFT....
+
+
+car dv25 is driving LEFT....
+
+car dv26 is driving STRAIGHT....
+car dv27 is driving LEFT....
+car cv12 is through!
+
+car dv28 is driving RIGHT....
+car cv13 is through!
+car dv29 is driving STRAIGHT....
+
+car cv14 is through!
+
+car dv31 is driving STRAIGHT....
+
+car cv15 is through!
+car dv32 is driving RIGHT....
+
+car dv33 is driving RIGHT....
+
+car cv16 is through!
+car dv34 is driving RIGHT....
+
+car dv35 is driving STRAIGHT....
+car dv36 is driving LEFT....
+car dv37 is driving LEFT....
+
+
+car cv17 is through!
+
+car dv38 is driving LEFT....
+
+car dv39 is driving RIGHT....
+car cv19 is through!
+
+car dv40 is driving RIGHT....
+
+car cv20 is through!
+
+car dv41 is driving LEFT....
+car dv42 is driving STRAIGHT....
+
+
+car dv43 is driving LEFT....
+
+car cv22 is through!
+car dv44 is driving STRAIGHT....
+car cv23 is through!
+car dv45 is driving RIGHT....
+car dv46 is driving RIGHT....
+
+
+car dv48 is driving STRAIGHT....
+
+
+car dv50 is driving STRAIGHT....
+All cars have left road d
+
+
+car bv1 cannot turn left yet! waiting 1 second...
+car cv24 is through!
+
+car cv25 is through!
+
+car dv30 is driving LEFT....
+car cv27 is through!
+
+
+car cv28 is through!
+
+car cv29 is through!
+
+
+
+
+
+
+
+car cv18 is through!
+car cv26 is through!
+
+
+
+
+car cv31 is through!
+
+car cv21 is through!
+car cv32 is through!
+
+
+
+
+car dv1 is through!
+car dv2 is through!
+
+car dv3 is through!
+
+car dv47 is driving LEFT....
+
+car dv49 is driving STRAIGHT....
+car dv5 is through!
+
+
+car dv6 is through!
+
+
+
+car dv7 is through!
+
+
+car dv8 is through!
+car dv9 is through!
+car dv20 is through!
+
+
+car dv10 is through!
+car dv23 is through!
+car dv12 is through!
+
+car dv13 is through!
+
+
+car dv14 is through!
+
+car cv30 is through!
+
+car dv15 is through!
+
+
+car dv16 is through!
+car dv32 is through!
+car dv33 is through!
+
+
+car bv1 cannot turn left yet! waiting 1 second...
+car dv34 is through!
+
+car dv19 is through!
+car dv21 is through!
+
+car dv38 is through!
+
+
+car dv22 is through!
+
+car dv11 is through!
+
+
+
+car dv42 is through!
+
+car dv24 is through!
+
+
+
+
+
+car dv46 is through!
+car dv4 is through!
+
+car dv48 is through!
+car dv26 is through!
+
+car dv27 is through!
+
+car dv29 is through!
+
+
+
+
+
+car dv18 is through!
+
+car dv36 is through!
+
+car dv37 is through!
+
+car dv39 is through!
+car dv40 is through!
+
+car dv41 is through!
+car dv25 is through!
+
+
+car dv43 is through!
+
+
+
+car dv45 is through!
+
+car dv35 is through!
+
+
+
+car dv28 is through!
+
+
+
+car dv30 is through!
+car dv31 is through!
+
+car dv17 is through!
+car dv44 is through!
+car dv47 is through!
+car dv50 is through!
+
+car dv49 is through!
+
+
+
+
+
+
+
+car bv1 is driving LEFT....
+
+car bv2 is driving LEFT....
+
+car bv3 is driving STRAIGHT....
+car bv4 is driving STRAIGHT....
+
+car bv5 is driving RIGHT....
+
+
+car bv7 is driving STRAIGHT....
+car bv6 is driving RIGHT....
+
+car bv9 is driving RIGHT....
+car bv10 is driving RIGHT....
+
+car bv8 is driving STRAIGHT....
+car bv11 is driving STRAIGHT....
+
+car bv12 is driving STRAIGHT....
+car bv13 cannot turn left yet! waiting 1 second...
+
+
+
+
+car bv13 cannot turn left yet! waiting 1 second...
+car bv1 is through!
+
+car bv2 is through!
+
+car bv3 is through!
+
+car bv5 is through!
+
+car bv4 is through!
+
+car bv6 is through!
+
+car bv7 is through!
+
+car bv9 is through!
+
+car bv10 is through!
+car bv8 is through!
+car bv12 is through!
+
+car bv11 is through!
+
+car bv13 is driving LEFT....
+
+car bv14 is driving STRAIGHT....
+
+
+car bv15 cannot turn left yet! waiting 1 second...
+
+The BD lights are now yellow!
+car bv15 cannot turn left yet! waiting 1 second...
+car bv13 is through!
+
+car bv14 is through!
+
+car bv15 is driving LEFT....
+
+car bv16 is driving LEFT....
+car bv17 is driving RIGHT....
+
+The BD lights are now red!
+
+The CA lights are now green!
+car cv33 is driving LEFT....
+
+car av6 is driving LEFT....
+
+car av7 cannot turn left yet! waiting 1 second...
+car cv34 is driving STRAIGHT....
+
+car cv36 is driving LEFT....
+car cv35 is driving STRAIGHT....
+car cv37 is driving LEFT....
+car cv38 is driving STRAIGHT....
+
+car cv39 is driving RIGHT....
+
+car cv40 is driving STRAIGHT....
+
+car cv41 is driving RIGHT....
+
+car cv42 is driving STRAIGHT....
+
+car cv43 is driving LEFT....
+
+car cv44 is driving RIGHT....
+
+car cv45 is driving RIGHT....
+car cv46 is driving STRAIGHT....
+
+car cv47 is driving LEFT....
+
+car cv48 is driving RIGHT....
+car cv49 is driving STRAIGHT....
+
+car cv50 is driving RIGHT....
+
+All cars have left road c
+
+
+
+
+
+
+car av7 cannot turn left yet! waiting 1 second...
+car bv15 is through!
+
+car bv16 is through!
+
+car bv17 is through!
+
+car cv33 is through!
+
+car av6 is through!
+
+car av7 cannot turn left yet! waiting 1 second...
+car cv34 is through!
+
+car cv36 is through!
+
+car cv35 is through!
+
+car cv37 is through!
+
+car cv38 is through!
+
+car cv39 is through!
+
+car cv40 is through!
+
+car cv41 is through!
+
+car cv42 is through!
+
+car cv43 is through!
+
+car cv44 is through!
+
+car cv45 is through!
+
+car cv46 is through!
+car cv48 is through!
+car cv47 is through!
+
+
+car cv50 is through!
+
+
+car cv49 is through!
+
+car av7 is driving LEFT....
+
+car av8 is driving STRAIGHT....
+car av9 is driving LEFT....
+
+car av10 is driving STRAIGHT....
+
+car av11 is driving LEFT....
+
+car av12 is driving RIGHT....
+car av13 is driving STRAIGHT....
+
+car av14 is driving RIGHT....
+
+car av15 is driving RIGHT....
+
+car av16 is driving RIGHT....
+
+car av17 is driving RIGHT....
+car av18 is driving LEFT....
+car av19 is driving STRAIGHT....
+
+car av20 is driving RIGHT....
+car av21 is driving RIGHT....
+car av22 is driving RIGHT....
+
+car av23 is driving LEFT....
+
+car av24 is driving RIGHT....
+
+car av25 is driving LEFT....
+
+car av26 is driving RIGHT....
+
+car av27 is driving LEFT....
+
+car av28 is driving LEFT....
+
+car av29 is driving STRAIGHT....
+
+car av30 is driving STRAIGHT....
+car av31 is driving RIGHT....
+
+car av32 is driving STRAIGHT....
+car av33 is driving LEFT....
+
+car av34 is driving STRAIGHT....
+
+car av35 is driving STRAIGHT....
+
+
+car av37 is driving STRAIGHT....
+car av38 is driving STRAIGHT....
+
+car av39 is driving LEFT....
+
+car av40 is driving STRAIGHT....
+
+
+
+car av42 is driving RIGHT....
+
+
+car av44 is driving STRAIGHT....
+
+car av45 is driving STRAIGHT....
+
+car av46 is driving STRAIGHT....
+car av47 is driving LEFT....
+car av36 is driving RIGHT....
+car av48 is driving LEFT....
+car av49 is driving RIGHT....
+
+car av50 is driving RIGHT....
+
+All cars have left road a
+
+car av41 is driving RIGHT....
+car av43 is driving LEFT....
+
+
+
+
+
+
+
+
+
+
+
+car av7 is through!
+
+car av8 is through!
+
+car av9 is through!
+car av10 is through!
+
+
+car av13 is through!
+
+car av12 is through!
+
+car av11 is through!
+
+car av14 is through!
+
+car av15 is through!
+
+car av16 is through!
+
+car av17 is through!
+
+car av18 is through!
+
+car av19 is through!
+
+car av20 is through!
+
+car av21 is through!
+
+car av22 is through!
+
+car av23 is through!
+
+car av24 is through!
+
+car av25 is through!
+
+car av34 is through!
+
+car av35 is through!
+
+car av27 is through!
+
+car av28 is through!
+
+car av39 is through!
+
+car av40 is through!
+
+car av30 is through!
+car av31 is through!
+car av42 is through!
+
+car av32 is through!
+
+car av44 is through!
+
+
+car av26 is through!
+
+
+car av37 is through!
+
+car av38 is through!
+
+car av29 is through!
+
+car av33 is through!
+
+car av45 is through!
+
+car av46 is through!
+
+car av47 is through!
+
+car av36 is through!
+car av48 is through!
+car av49 is through!
+car av50 is through!
+
+
+
+
+car av41 is through!
+car av43 is through!
+
+
+The CA lights are now yellow!
+The CA lights are now red!
+The BD lights are now green!
+car bv18 is driving STRAIGHT....
+car bv19 is driving RIGHT....
+car bv20 cannot turn left yet! waiting 1 second...
+
+
+car bv20 cannot turn left yet! waiting 1 second...
+car bv18 is through!
+
+car bv19 is through!
+
+car bv20 is driving LEFT....
+
+car bv21 is driving LEFT....
+car bv22 is driving RIGHT....
+
+car bv23 is driving STRAIGHT....
+
+car bv24 is driving STRAIGHT....
+
+
+car bv25 cannot turn left yet! waiting 1 second...
+car bv25 cannot turn left yet! waiting 1 second...
+car bv20 is through!
+
+car bv21 is through!
+
+car bv22 is through!
+
+car bv23 is through!
+car bv24 is through!
+
+
+car bv25 is driving LEFT....
+
+car bv26 is driving LEFT....
+
+car bv28 is driving RIGHT....
+car bv27 is driving LEFT....
+car bv29 is driving LEFT....
+
+car bv30 is driving LEFT....
+
+car bv31 is driving LEFT....
+car bv32 is driving STRAIGHT....
+
+car bv33 is driving RIGHT....
+
+car bv34 is driving RIGHT....
+
+car bv35 is driving RIGHT....
+
+car bv36 is driving RIGHT....
+
+car bv37 is driving STRAIGHT....
+car bv38 is driving STRAIGHT....
+
+car bv39 is driving STRAIGHT....
+car bv40 cannot turn left yet! waiting 1 second...
+
+
+
+
+
+car bv40 cannot turn left yet! waiting 1 second...
+car bv25 is through!
+
+car bv26 is through!
+
+car bv28 is through!
+
+car bv30 is through!
+
+car bv29 is through!
+
+car bv33 is through!
+
+car bv31 is through!
+
+car bv35 is through!
+
+car bv27 is through!
+
+car bv34 is through!
+car bv36 is through!
+
+
+car bv40 cannot turn left yet! waiting 1 second...
+car bv38 is through!
+car bv37 is through!
+
+
+car bv39 is through!
+
+car bv32 is through!
+
+car bv40 is driving LEFT....
+
+car bv41 is driving RIGHT....
+
+car bv42 is driving STRAIGHT....
+
+car bv43 is driving STRAIGHT....
+car bv44 is driving STRAIGHT....
+
+car bv45 is driving RIGHT....
+
+car bv46 is driving STRAIGHT....
+car bv47 cannot turn left yet! waiting 1 second...
+
+
+car bv47 cannot turn left yet! waiting 1 second...
+car bv40 is through!
+
+car bv41 is through!
+
+car bv42 is through!
+
+car bv43 is through!
+
+car bv44 is through!
+
+car bv46 is through!
+car bv45 is through!
+
+
+car bv47 is driving LEFT....
+car bv48 is driving LEFT....
+
+car bv49 is driving STRAIGHT....
+
+car bv50 cannot turn left yet! waiting 1 second...
+
+The BD lights are now yellow!
+car bv50 cannot turn left yet! waiting 1 second...
+car bv47 is through!
+
+car bv48 is through!
+
+car bv49 is through!
+
+car bv50 is driving LEFT....
+All cars have left road b
+
+
+The BD lights are now red!
+The CA lights are now green!
+car bv50 is through!
+
+Simulation Complete!
+
+
+Author Comments:
+
+even with 50 cars deadlock does not happen, even with the introduction of human error.
