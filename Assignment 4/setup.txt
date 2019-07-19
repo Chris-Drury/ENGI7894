@@ -1,0 +1,12 @@
+For setup, makes sure OpenCL's development environment is properly setup to the system.
+
+Once OpenCL is setup, build the .cpp file using the command:
+c++ .\assignment4.cpp -I 'C:\Program Files (x86)\IntelSWTools\OpenCL\sdk\include' -L 'C:\Program Files (x86)\IntelSWTools\OpenCL\sdk\lib\x86' -lOpenCl
+
+    ## assuming that 'C:\Program Files (x86)\IntelSWTools\OpenCL' is the install path for OpenCL on the target device.
+
+finall run the executable that is generated with the two commands:
+.\assignment4.cpp <input file name> <output file name>
+
+    ## the output files should be in the same directory as the .exe file for simlpicity, allowing no directories to be passed in as args.
+    ## if the files do not exist they will be created. (Of course, this causes issues for the input data)
