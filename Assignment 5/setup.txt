@@ -1,0 +1,13 @@
+For setup on a win 10 machine:
+
+Install mpi4py using the pip command:
+    'pip install mpi4py'
+
+Install Microsoft MPI:
+    https://nyu-cds.github.io/python-mpi/setup/
+    ensure the library is set on the system path
+
+run the python script with the command:
+    'mpiexec -n 8 python Assignment5.py'
+
+to change the number of elements change the int on line 12
